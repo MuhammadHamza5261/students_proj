@@ -2,6 +2,7 @@ import 'package:quranic_app/model/ayat_model.dart';
 
 abstract class GetAyatState{}
 
+
 class AyatInitialState extends GetAyatState{}
 
 class AyatProgressState extends GetAyatState{}

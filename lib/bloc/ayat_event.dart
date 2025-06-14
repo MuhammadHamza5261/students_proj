@@ -1,5 +1,6 @@
 abstract class AyatEvent{}
 
 
-class GetAyatEvent extends AyatEvent{}
 
+
+class GetAyatEvent extends AyatEvent{}
